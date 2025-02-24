@@ -2,7 +2,7 @@
 % To perform 2-dimensional Fourier transform creation on an image
 
 % A = Read an Image
-A = imread('img.jpg'); % Replace 'your_image.jpg' with your image file
+A = imread('img1.jpg'); % Replace 'your_image.jpg' with your image file
 figure; imshow(A); title('Original Image');
 
 % B = Gray conversion
