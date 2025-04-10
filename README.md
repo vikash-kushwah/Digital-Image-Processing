@@ -41,9 +41,10 @@ MATLAB_DRIVE/
 │-- 4_Negative_Image/                   # Negative Image Processing
 │-- 5_Logical_Operations/                # Logical Operations on Images
 │-- 6_Histogram_Equalization/            # Histogram Equalization Techniques
-├── 7_2D_Fourier_Transform_Operation/  # 2D Fourier Transform Operations
-├── 8_Linear_Filtering/ # Linear Filtering Techniques
-├── 9_Image_Edge_Detection/ # Image Edge Detection
+|-- 7_2D_Fourier_Transform_Operation/  # 2D Fourier Transform Operations
+|-- 8_Linear_Filtering/                # Linear Filtering Techniques
+|-- 9_Image_Edge_Detection/            # Image Edge Detection
+|-- LICENSE
 │-- README.md                            # Project Documentation
 ```
 
